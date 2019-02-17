@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".second">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+        android:id="@+id/enterId1"
+        android:text= "@string/GALIB_button"
+        android:layout_gravity="center"
+        android:layout_marginBottom="5dp"
+        android:textSize="25sp"
+        android:layout_margin="5dp"
+        android:background="#dc1457"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/enterId2"
+            android:text="Md. Alam hossain"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:textSize="25sp"
+            android:background="#dc1457"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/enterId3"
+            android:text="Md. Asif Nashiry"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:textSize="25sp"
+            android:background="#dc1457"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/enterId4"
+            android:text="Md. Ashraful Islam"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:textSize="25sp"
+            android:background="#dc1457"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/enterId5"
+            android:text="Md. Kamrul Islam"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:textSize="25sp"
+            android:background="#dc1457"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/enterId6"
+            android:text="Engr. Md. Arif Rahman"
+            android:layout_gravity="center"
+            android:textSize="25sp"
+            android:background="#dc1457"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/enterId7"
+            android:text="Nazmul Hossain"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:textSize="25sp"
+            android:background="#dc1457"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/enterId8"
+            android:text="Md. Al Amin"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:textSize="25sp"
+            android:background="#dc1457"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <Button
+        android:id="@+id/enterId9"
+        android:text="Mohammad Nowsin Amin Sheikh "
+        android:layout_gravity="center"
+        android:textSize="25sp"
+        android:background="#dc1457"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/enterId10"
+            android:text="Md. Yasir Arafat "
+            android:layout_gravity="center"
+            android:textSize="25sp"
+            android:background="#dc1457"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:id="@+id/enterId11"
+            android:text="Jannatul Ferdush "
+            android:layout_gravity="center"
+            android:textSize="25sp"
+            android:background="#dc1457"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+        <Button
+        android:id="@+id/enterId12"
+        android:text="Monishanker Haldar "
+        android:layout_gravity="center"
+        android:textSize="25sp"
+        android:background="#dc1457"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/enterId13"
+            android:text="Atish Kumar Dipongkor"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:textSize="25sp"
+            android:background="#dc1457"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/enterId14"
+            android:text="Md. Shafiuzzaman Hira"
+            android:layout_gravity="center"
+            android:textSize="25sp"
+            android:background="#dc1457"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>
+
+
+</ScrollView>

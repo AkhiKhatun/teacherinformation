@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".najmul">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_marginTop="20dp"
+                android:id="@+id/img"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:src="@drawable/najmul"
+                android:layout_centerHorizontal="true"
+                app:civ_border_width="2dp"
+                app:civ_border_color="#FF000000"/>
+
+            <TextView
+                android:id="@+id/txt1"
+                android:layout_marginTop="15dp"
+                android:layout_below="@id/img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Name: Najmul Hossain"
+                android:layout_marginBottom="1dp"
+                android:padding="10dp"
+                android:textSize="22sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/txt2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt1"
+                android:layout_marginTop="1dp"
+                android:padding="10dp"
+                android:text="Qualification:"
+                android:textSize="20sp"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/txt22"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt2"
+                android:paddingLeft="10dp"
+                android:text="B.Sc(Engg.), M.Sc(Engg.)"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/txt3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt22"
+                android:layout_marginTop="1dp"
+                android:padding="10dp"
+                android:text="Designation:"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt3"
+                android:paddingLeft="10dp"
+                android:text="Assistant Professor"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/txt5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt4"
+                android:layout_marginTop="2dp"
+                android:padding="10dp"
+                android:text="Department:"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt5"
+                android:paddingLeft="10dp"
+                android:text="Computer Science and Engineering"
+                android:textSize="20sp" />
+            <TextView
+                android:id="@+id/txt7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt6"
+                android:layout_marginTop="2dp"
+                android:padding="10dp"
+                android:text="Contact no.:"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt7"
+                android:paddingLeft="10dp"
+                android:text="+8801717249730"
+                android:textSize="20sp" />
+            <TextView
+                android:id="@+id/txt9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt8"
+                android:layout_marginTop="2dp"
+                android:padding="10dp"
+                android:text="E-mail Address:"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt9"
+                android:paddingLeft="10dp"
+                android:text="najmul.justcse@gnail.com"
+                android:textSize="20sp" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

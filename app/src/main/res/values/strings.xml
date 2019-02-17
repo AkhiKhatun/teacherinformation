@@ -1,0 +1,166 @@
+<resources>
+    <string name="app_name">Teacher Information</string>
+
+    <string name="id1">Enter</string>
+
+    <string name="welcome">Welcome To CSE Dept.,JUST</string>
+
+    <string name="deptcse">Department of CSE</string>
+
+    <string name="GALIB_button">Dr. Syed Md. Galib</string>
+
+    <string name="galib_text">
+
+        Qualification:\n
+        Doctor of Philosophy(PhD)\n
+        \n
+        Designation:\n
+        Associate Professor and Chairman\n
+        \n
+        Department:\n
+        Computer Science and Engineering\n
+        \n
+
+    </string>
+
+    <string name="alam_text">
+        Designation:Assistant Professor\n
+        \n
+        Department:\n
+        Computer Science and Engineering\n
+        \n
+        Email address:\n
+        alamcse.iu@yahoo.com\n
+        \n
+    </string>
+
+    <string name="asif_text">
+        Designation:Assistant Professor\n
+        \n
+        Deptartment:\n
+        Computer Science and Engineering\n
+        \n
+        Email address:\n
+        asif.nashiry@gmail.com\n
+        \n
+    </string>
+
+    <string name="ashraf_text">
+        Designation:Assistant Professor\n
+        \n
+        Department:\n
+        Computer Science and Engineering\n
+        \n
+        Email address:ashraf.Diu@gmail.com\n
+        \n
+    </string>
+
+    <string name="kamrul_text">
+        Designation:Assistant Professor\n
+        \n
+        Department:\n
+        Computer Science and Engineering\n
+        \n
+        Email Address:mk.islam@jstu.edu.bd\n
+        \n
+    </string>
+
+    <string name="arif_text">
+        Designation:Assistant Professor\n
+        \n
+        Department:\n
+        Computer Science and Engineering\n
+        \n
+        Email Address:arif.rah@gmail.com\n
+        \n
+    </string>
+
+
+    <string name="najmul_text">
+        Designation:Assistant Professor\n
+        \n
+        Department:\n
+        Computer Science and Engineering\n
+        \n
+        Email address:\n
+        najmul.justcse@gmail.com\n
+        \n
+    </string>
+
+    <string name="amin_text">
+        Designation:Assistant Professor\n
+        \n
+        Department:\n
+        Computer Science and Engineering\n
+        \n
+        Email address:\n
+        malamin.al@gmail.com\n
+        \n
+    </string>
+
+    <string name="nowshin_text">
+        Designation:Assistant Professor\n
+        \n
+        Department:\n
+        Computer Science and Engineering\n
+        \n
+        Email Address:\n
+        n.amin@just.edu.bd\n
+        \n
+    </string>
+
+    <string name="arafat_text">
+        Designation:Assistant Professor\n
+        \n
+        Department:\n
+        Computer Science and Engineering\n
+        \n
+        Email Address:\n
+        arafat.cse.jstu@gmail.com\n
+        \n
+    </string>
+
+    <string name="Jannat_text">
+        Designation:lecturer\n
+        \n
+        Department:\n
+        Computer Science and Engineering\n
+        \n
+        Email Address:\n
+        jannatulkuet@gmail.com\n
+        \n
+    </string>
+
+    <string name="moni_text">
+        Designation:Lecturer\n
+        \n
+        Department:\n
+        Computer Science and Engineering\n
+        \n
+        Email Address:\n
+        monicsejust@gmail.com\n
+        \n
+    </string>
+
+    <string name="atish_text">
+        Designation:Lecturer\n
+        \n
+        Department:\n
+        Computer Science and Engineering\n
+        \n
+        Email address:atishdu@hotmail.com\n
+        \n
+    </string>
+
+    <string name="hira_text">
+        Designation:Lecturer\n
+        \n
+        Department:\n
+        Computer Science and Engineering\n
+        \n
+        Email address:\n
+        md.shafiuzzaman.hira@gmail.com\n
+        \n
+    </string>
+
+</resources>
