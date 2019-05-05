@@ -30,7 +30,7 @@
         <activity android:name=".atish" />
         <activity android:name=".hira" />
         <activity android:name=".asif" />
-        <activity android:name=".ashraf"></activity>
+        <activity android:name=".ashraf" />
     </application>
 
 </manifest>

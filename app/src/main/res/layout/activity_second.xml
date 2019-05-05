@@ -20,7 +20,7 @@
         android:layout_marginBottom="5dp"
         android:textSize="25sp"
         android:layout_margin="5dp"
-        android:background="#dc1457"
+        android:background="#b3a7ab"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
@@ -30,7 +30,7 @@
             android:layout_gravity="center"
             android:layout_margin="5dp"
             android:textSize="25sp"
-            android:background="#dc1457"
+            android:background="#b3a7ab"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
 
@@ -40,7 +40,7 @@
             android:layout_gravity="center"
             android:layout_margin="5dp"
             android:textSize="25sp"
-            android:background="#dc1457"
+            android:background="#b3a7ab"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
 
@@ -50,7 +50,7 @@
             android:layout_gravity="center"
             android:layout_margin="5dp"
             android:textSize="25sp"
-            android:background="#dc1457"
+            android:background="#b3a7ab"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
 
@@ -60,7 +60,7 @@
             android:layout_gravity="center"
             android:layout_margin="5dp"
             android:textSize="25sp"
-            android:background="#dc1457"
+            android:background="#b3a7ab"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
 
@@ -69,7 +69,7 @@
             android:text="Engr. Md. Arif Rahman"
             android:layout_gravity="center"
             android:textSize="25sp"
-            android:background="#dc1457"
+            android:background="#b3a7ab"
             android:layout_margin="5dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
@@ -80,7 +80,7 @@
             android:layout_gravity="center"
             android:layout_margin="5dp"
             android:textSize="25sp"
-            android:background="#dc1457"
+            android:background="#b3a7ab"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
 
@@ -90,7 +90,7 @@
             android:layout_gravity="center"
             android:layout_margin="5dp"
             android:textSize="25sp"
-            android:background="#dc1457"
+            android:background="#b3a7ab"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
 
@@ -99,7 +99,7 @@
         android:text="Mohammad Nowsin Amin Sheikh "
         android:layout_gravity="center"
         android:textSize="25sp"
-        android:background="#dc1457"
+        android:background="#b3a7ab"
         android:layout_margin="5dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
@@ -109,7 +109,7 @@
             android:text="Md. Yasir Arafat "
             android:layout_gravity="center"
             android:textSize="25sp"
-            android:background="#dc1457"
+            android:background="#b3a7ab"
             android:layout_margin="5dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
@@ -118,7 +118,7 @@
             android:text="Jannatul Ferdush "
             android:layout_gravity="center"
             android:textSize="25sp"
-            android:background="#dc1457"
+            android:background="#b3a7ab"
             android:layout_margin="5dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
@@ -129,7 +129,7 @@
         android:text="Monishanker Haldar "
         android:layout_gravity="center"
         android:textSize="25sp"
-        android:background="#dc1457"
+        android:background="#b3a7ab"
         android:layout_margin="5dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
@@ -140,7 +140,7 @@
             android:layout_gravity="center"
             android:layout_margin="5dp"
             android:textSize="25sp"
-            android:background="#dc1457"
+            android:background="#b3a7ab"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
 
@@ -149,7 +149,7 @@
             android:text="Md. Shafiuzzaman Hira"
             android:layout_gravity="center"
             android:textSize="25sp"
-            android:background="#dc1457"
+            android:background="#b3a7ab"
             android:layout_margin="5dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
